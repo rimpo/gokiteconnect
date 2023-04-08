@@ -6,7 +6,7 @@ import (
 	"net/url"
 
 	"github.com/google/go-querystring/query"
-	"github.com/zerodha/gokiteconnect/v4/models"
+	"github.com/rimpo/gokiteconnect/v4/models"
 )
 
 const (

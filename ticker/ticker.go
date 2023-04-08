@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	kiteconnect "github.com/zerodha/gokiteconnect/v4"
-	"github.com/zerodha/gokiteconnect/v4/models"
+	kiteconnect "github.com/rimpo/gokiteconnect/v4"
+	"github.com/rimpo/gokiteconnect/v4/models"
 )
 
 // Mode represents available ticker modes.

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/zerodha/gokiteconnect/v4/models"
+	"github.com/rimpo/gokiteconnect/v4/models"
 )
 
 // GTTType represents the available GTT order types.
