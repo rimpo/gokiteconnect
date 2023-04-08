@@ -11,8 +11,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
-github.com/rimpo/gokiteconnect/v4 v4.1.1 h1:yznpOImLi2y7TqUbUPRdMWWVgMuIRXEd8GBJDhaS9SE=
-github.com/rimpo/gokiteconnect/v4 v4.1.1/go.mod h1:ym/xXldKyPzkpN7JZpg6Cbjs+nGfqvMC5X9BsHEil9s=
+github.com/rimpo/gokiteconnect/v4 v4.1.2 h1:yznpOImLi2y7TqUbUPRdMWWVgMuIRXEd8GBJDhaS9SE=
+github.com/rimpo/gokiteconnect/v4 v4.1.2/go.mod h1:ym/xXldKyPzkpN7JZpg6Cbjs+nGfqvMC5X9BsHEil9s=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/jarcoal/httpmock.v1 v1.0.0-20180719183105-8007e27cdb32 h1:30DLrQoRqdUHslVMzxuKUnY4GKJGk1/FJtKy3yx4TKE=
